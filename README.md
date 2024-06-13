@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quonnaq0711
 - 👀 I’m interested in alot focused on the most intriguing
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any and all projects to gain better knowledge
 - 📫 How to reach me email me
 - 😄 Pronouns: She Her Hers
