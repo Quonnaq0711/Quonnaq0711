@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quonnaq0711
+- 👋 Hi, I’m Shaquonna Williams
 - 👀 I’m interested in alot focused on the most intriguing
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on any and all projects to gain better knowledge
