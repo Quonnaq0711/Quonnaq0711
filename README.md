@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Quonna my background in the food industry and a passion for technology, I'm seeking to transition my skills and experience into a software engineering role.  My experience in  restaurant management and supervision, catering, and food production has honed my abilities in problem-solving, adaptability, teamwork, being customer focus. These skills, combined with my passion for creating innovative solutions, have driven me to pursue a career in software engineering. I'm eager to apply my technical abilities to web development and programming  and contribute to projects that improve people's lives.  I thrive in both collaborative and independent environments and am a quick learner with a strong work ethic. I'm confident that my diverse background and dedication to learning will make me a valuable asset to any team.
-- 👀 I’m interested in alot focused on the most intriguing
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on any and all projects to gain better knowledge
-- 📫 How to reach me email me at: Shaquonna.lynna@gmail.com
-- 😄 Pronouns: She Her Hers
-- ⚡ Fun fact: I can be funny sometimes
+👋 My name is Quonna, and I am seeking to leverage my background in the food industry with my  passion for technology to transition into a software engineering role. I am eager to learn new technologies and apply them to projects that enhance user experiences.
+
+:computer: Technology and Skills
+- Frontend Development: React, Redux, HTML/CSS, Jinja2
+- Backend Development: Node.js, Express.js, Flask
+- Databases: PostgreSQL, SQLite
+- ORMs: SQLAlchemy, Sequelize, Alembic
+- Authentication: Csrf,  JWT-Tokens
+- Dev Tools: Git, Bash, VSCode, Mocha, Figma, Postman, Chrome DevTools, Render
+
+🪄 Projects
+
+ Flexitude:
+ - A fitness application that makes it easier to create fitness routines and get community enagement. (currently in development)
+  
+ Eater-Verse:
+- A restuarant directory that allows business owners to list business details and users to locate, review, and reserve tables.
+  
+ Qb-n-b:
+ - A mock version of Airbnb that allows users to perform full CRUD operations on the listings with image and partical CRUD operations on reviews.
+
+:seedling: Currently Learning
+- AWS S3: Cloud Service for data storage and display
+- CircleCI: Continuous integration and continuous deployment (CI/CD) platform used to automate the process of testing, building, and deploying software applications.
+
+
   
 <!---
 Quonnaq0711/Quonnaq0711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
