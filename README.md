@@ -1,4 +1,4 @@
-👋 My name is Quonna, and I am seeking to leverage my background in the food industry with my  passion for technology to transition into a software engineering role. I am eager to learn new technologies and apply them to projects that enhance user experiences.
+👋 My name is Quonna, I am seeking to leverage my background in the food industry with my  passion for technology to transition into a software engineering role. I am eager to learn new technologies and apply them to projects that enhance user experiences.
 
 :computer: Technology and Skills
 - Frontend Development: React, Redux, HTML/CSS, Jinja2
