@@ -7,21 +7,22 @@
 - ORMs: SQLAlchemy, Sequelize, Alembic
 - Authentication: Csrf,  JWT-Tokens
 - Dev Tools: Git, Bash, VSCode, Mocha, Figma, Postman, Chrome DevTools, Render
-
+  
 🪄 Projects
-
+ 
  Flexitude:
- - A fitness application that makes it easier to create fitness routines and get community engagement. (currently in development)
-  
+ - A fitness application that makes it easier to create fitness routines and get community engagement. (currently in development)  
+ 
  Eater-Verse:
-- A restaurant directory that allows business owners to list business details and users to locate, review, and reserve tables.
-  
- Qb-n-b:
- - A mock version of Airbnb that allows users to perform full CRUD operations on the listings with image and partial CRUD operations on reviews.
+- A restaurant directory that allows business owners to list business details and users to locate, review, and reserve tables.  
 
+Qb-n-b:
+ - A mock version of Airbnb that allows users to perform full CRUD operations on the listings with image and partial CRUD operations on reviews.
+   
 :seedling: Currently Learning
 - AWS S3: Cloud Service for data storage and display
 - CircleCI: Continuous integration and continuous deployment (CI/CD) platform used to automate the process of testing, building, and deploying software applications.
+
 
 
 
