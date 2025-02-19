@@ -22,6 +22,7 @@ Qb-n-b:
 :seedling: Currently Learning
 - AWS S3: Cloud Service for data storage and display
 - CircleCI: Continuous integration and continuous deployment (CI/CD) platform used to automate the process of testing, building, and deploying software applications.
+- MongoDB: open-source, document-oriented NoSQL database.
 
 
 
