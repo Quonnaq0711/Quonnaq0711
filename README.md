@@ -3,10 +3,10 @@
 :computer: Technology and Skills
 - Frontend Development: React, Redux, HTML/CSS, Jinja2
 - Backend Development: Node.js, Express.js, Flask
-- Databases: PostgreSQL, SQLite
+- Databases: PostgreSQL, SQLite, MongoDB
 - ORMs: SQLAlchemy, Sequelize, Alembic
 - Authentication: Csrf,  JWT-Tokens
-- Dev Tools: Git, Bash, VSCode, Mocha, Figma, Postman, Chrome DevTools, Render
+- Dev Tools: Git, Bash, VSCode, Mocha, Figma, Postman, Chrome DevTools, Render, Ubuntu
   
 🪄 Projects
  
@@ -20,9 +20,10 @@ Qb-n-b:
  - A mock version of Airbnb that allows users to perform full CRUD operations on the listings with image and partial CRUD operations on reviews.
    
 :seedling: Currently Learning
+- MongoDB: open-source, document-oriented NoSQL database.
 - AWS S3: Cloud Service for data storage and display
 - CircleCI: Continuous integration and continuous deployment (CI/CD) platform used to automate the process of testing, building, and deploying software applications.
-- MongoDB: open-source, document-oriented NoSQL database.
+
 
 
 
