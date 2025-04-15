@@ -1,13 +1,13 @@
 👋 My name is Quonna, I am seeking to leverage my background in the food industry with my  passion for technology to transition into a software engineering role. I am eager to learn new technologies and apply them to projects that enhance user experiences.
 
 :computer: Technology and Skills
-- Frontend Development: React, Redux, HTML/CSS, Jinja2
-- Backend Development: Node.js, Express.js, Flask
-- Databases: PostgreSQL, SQLite, MongoDB
+- Frontend Development: React, Redux, HTML/CSS, Next
+- Backend Development: Node.js, Express.js, Flask, Sanity
+- Databases: PostgreSQL, SQLite, MongoDB, Sanity Studio
 - ORMs: SQLAlchemy, Sequelize, Alembic
 - Authentication: Csrf,  JWT-Tokens
 - Dev Tools: Git, Bash, VSCode, Mocha, Figma, Postman, Chrome DevTools, Render, Ubuntu
-  
+
 🪄 Projects
  
  Flexitude:
@@ -20,8 +20,9 @@ Qb-n-b:
  - A mock version of Airbnb that allows users to perform full CRUD operations on the listings with image and partial CRUD operations on reviews.
    
 :seedling: Currently Learning
-- MongoDB: open-source, document-oriented NoSQL database.
-- AWS S3: Cloud Service for data storage and display
+- TypeScript: Programming Language.
+- MongoDB: Open-source, Document-oriented NoSQL database.
+- Next.js: Open-source web development framework, React-based web applications with server-side rendering and static rendering.
 - CircleCI: Continuous integration and continuous deployment (CI/CD) platform used to automate the process of testing, building, and deploying software applications.
 
 
