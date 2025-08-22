@@ -2,9 +2,9 @@
 
 :computer: Technology and Skills
 - Frontend Development: React, Redux, HTML/CSS, Next
-- Backend Development: Node.js, Express.js, Flask, Sanity
+- Backend Development: Node.js, Express.js, Flask, Sanity, Nestjs
 - Databases: PostgreSQL, SQLite, MongoDB, Sanity Studio
-- ORMs: SQLAlchemy, Sequelize, Alembic
+- ORMs: SQLAlchemy, Sequelize, Alembic, Prisma
 - Authentication: Csrf,  JWT-Tokens
 - Dev Tools: Git, Bash, VSCode, Mocha, Figma, Postman, Chrome DevTools, Render, Ubuntu
 
@@ -23,7 +23,6 @@ Qb-n-b:
 - TypeScript: Programming Language.
 - MongoDB: Open-source, Document-oriented NoSQL database.
 - Next.js: Open-source web development framework, React-based web applications with server-side rendering and static rendering.
-- CircleCI: Continuous integration and continuous deployment (CI/CD) platform used to automate the process of testing, building, and deploying software applications.
 
 
 
