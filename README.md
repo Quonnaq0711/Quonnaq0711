@@ -11,7 +11,7 @@
 🪄 Projects
  
  Flexitude:
- - A fitness application that makes it easier to create fitness routines and get community engagement. (currently in development)  
+ - A web-based fitness application that makes it easier to create fitness routines and get community engagement. 
  
  Eater-Verse:
 - A restaurant directory that allows business owners to list business details and users to locate, review, and reserve tables.  
