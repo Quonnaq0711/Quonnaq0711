@@ -1,35 +1,38 @@
-👋 My name is Quonna, I am seeking to leverage my background in the food industry with my  passion for technology to transition into a software engineering role. I am eager to learn new technologies and apply them to projects that enhance user experiences.
-
-:computer: Technology and Skills
-- Frontend Development: React, Redux, HTML/CSS, Next
-- Backend Development: Node.js, Express.js, Flask, Sanity, Nestjs
-- Databases: PostgreSQL, SQLite, MongoDB, Sanity Studio
-- ORMs: SQLAlchemy, Sequelize, Alembic, Prisma
-- Authentication: Csrf,  JWT-Tokens
-- Dev Tools: Git, Bash, VSCode, Mocha, Figma, Postman, Chrome DevTools, Render, Ubuntu
-
-🪄 Projects
- 
- Flexitude:
- - A web-based fitness application that makes it easier to create fitness routines and get community engagement. 
- 
- Eater-Verse:
-- A restaurant directory that allows business owners to list business details and users to locate, review, and reserve tables.  
-
-Qb-n-b:
- - A mock version of Airbnb that allows users to perform full CRUD operations on the listings with image and partial CRUD operations on reviews.
-   
-:seedling: Currently Learning
-- TypeScript: Programming Language.
-- MongoDB: Open-source, Document-oriented NoSQL database.
-- Next.js: Open-source web development framework, React-based web applications with server-side rendering and static rendering.
+## 👋 Hi, I'm Shaquonna Williams — a Full-Stack Software Engineer based in Baltimore, MD, currently building production-grade AI-powered platforms at Sadaora Inc. I specialize in architecting microservices, deploying cloud infrastructure on GCP, and integrating LLM pipelines into real-world applications. My background in operations and entrepreneurship sharpens how I approach engineering — I build systems that are reliable, scalable, and cost-effective.
 
 
+### 💻 Tech Stack
+
+Languages: JavaScript, TypeScript, Python, HTML, CSS, SQL
+
+Frontend: React, Redux, Next.js
+
+Backend: FastAPI, Node.js, Express.js, NestJS, Flask
+
+Databases: PostgreSQL, SQLite, MongoDB
+
+ORMs & Migrations: SQLAlchemy, Sequelize, Alembic, Prisma
+
+DevOps & Cloud: GCP, Docker, Docker Compose, Nginx, Redis, Ubuntu, Bash
+
+AI/ML: Ollama, Gemma 3, LLM pipeline integration
+
+Tools: Git, VSCode, Figma, Postman, Mocha, Chrome DevTools
 
 
+### 🚀 Featured Projects
 
-  
-<!---
-Quonnaq0711/Quonnaq0711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IDII — AI-powered labor market intelligence platform with BLS/O*NET integration, Redis caching, and locally-hosted LLM inference
+
+Eater-Verse — Restaurant discovery & reservation platform (React, Flask, PostgreSQL)
+
+Flexitude — Community fitness app with normalized many-to-many data modeling
+
+Qb-n-b — Full-CRUD Airbnb-inspired listings platform
+
+
+### 🌱 Currently deepening:
+
+TypeScript · MongoDB · Next.js · Cloud-native architecture · Python
+
+### [Portfolio](https://swilliamsportfolio.netlify.app "Portfolio") - [LinkedIn](https://www.linkedin.com/in/swilliams5425 "LinkedIn")
