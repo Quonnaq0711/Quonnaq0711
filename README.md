@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shaquonna Williams — a Full-Stack Software Engineer based in Baltimore, MD, currently building production-grade AI-powered platforms at Sadaora Inc. I specialize in architecting microservices, deploying cloud infrastructure on GCP, and integrating LLM pipelines into real-world applications. My background in operations and entrepreneurship sharpens how I approach engineering — I build systems that are reliable, scalable, and cost-effective.
+## 👋 Hi, I'm Shaquonna Williams — a Full-Stack Software Engineer based in Baltimore, MD, currently building production-grade AI-powered platforms at Sadaora Inc. I specialize in architecting microservices, deploying cloud infrastructure on GCP, and integrating LLM pipelines into real-world applications. My background in operations and entrepreneurship sharpens how I approach engineering. I build systems that are reliable, scalable, and cost-effective.
 
 
 ### 💻 Tech Stack
